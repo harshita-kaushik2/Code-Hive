@@ -1,0 +1,25 @@
+[
+    {   "id": 1,
+        "name":"Anushree Mishra",
+        "role":"2nd year, VIT Vellore",
+        "message":"The website is well-structured, making it easy to use right from the very first time. Now I don't have to waste my time going through different resources of the same thing. Highly recommended!"
+    },
+    {
+        "id": 2,
+        "name":"Kartick Gupta",
+        "role":"SDE 2, Rapido",
+        "message":"I am impressed ! The UI of the website is pretty minimalistic, and allows free access to plethora of quality content. I found it pretty useful and highly recommend it to fellow developers"
+    },
+    {
+        "id": 3,
+        "name":"Shruti Jha",
+        "role":"4th year, SRM University Chennai",
+        "message":"This is a pretty handy website. I came across it when my on campus interviews were approaching, and I am thankful to how refined and concise the matter for preparation was. "
+    },
+    {
+        "id": 4,
+        "name":"Zarka Farooqi",
+        "role":"Front-end Developer",
+        "message":"The teaching resources on this website are invaluable. It was clean, uncluttered, easy-to-use. And on top of that, the resources provided are on-point. Nothing unnecessary in the website. No complains at all. "
+    }
+]
